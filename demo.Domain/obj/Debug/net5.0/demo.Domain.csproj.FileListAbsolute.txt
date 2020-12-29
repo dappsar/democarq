@@ -1,0 +1,12 @@
+D:\desarrollo\sources\globons\i+d\demo\demo.Domain\bin\Debug\net5.0\demo.Domain.deps.json
+D:\desarrollo\sources\globons\i+d\demo\demo.Domain\bin\Debug\net5.0\demo.Domain.dll
+D:\desarrollo\sources\globons\i+d\demo\demo.Domain\bin\Debug\net5.0\ref\demo.Domain.dll
+D:\desarrollo\sources\globons\i+d\demo\demo.Domain\bin\Debug\net5.0\demo.Domain.pdb
+D:\desarrollo\sources\globons\i+d\demo\demo.Domain\obj\Debug\net5.0\demo.Domain.csprojAssemblyReference.cache
+D:\desarrollo\sources\globons\i+d\demo\demo.Domain\obj\Debug\net5.0\demo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\desarrollo\sources\globons\i+d\demo\demo.Domain\obj\Debug\net5.0\demo.Domain.AssemblyInfoInputs.cache
+D:\desarrollo\sources\globons\i+d\demo\demo.Domain\obj\Debug\net5.0\demo.Domain.AssemblyInfo.cs
+D:\desarrollo\sources\globons\i+d\demo\demo.Domain\obj\Debug\net5.0\demo.Domain.csproj.CoreCompileInputs.cache
+D:\desarrollo\sources\globons\i+d\demo\demo.Domain\obj\Debug\net5.0\demo.Domain.dll
+D:\desarrollo\sources\globons\i+d\demo\demo.Domain\obj\Debug\net5.0\ref\demo.Domain.dll
+D:\desarrollo\sources\globons\i+d\demo\demo.Domain\obj\Debug\net5.0\demo.Domain.pdb

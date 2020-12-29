@@ -1,0 +1,17 @@
+D:\desarrollo\sources\globons\i+d\demo\demo.Infrastructure.Shared\bin\Debug\net5.0\demo.Infrastructure.Shared.deps.json
+D:\desarrollo\sources\globons\i+d\demo\demo.Infrastructure.Shared\bin\Debug\net5.0\demo.Infrastructure.Shared.dll
+D:\desarrollo\sources\globons\i+d\demo\demo.Infrastructure.Shared\bin\Debug\net5.0\ref\demo.Infrastructure.Shared.dll
+D:\desarrollo\sources\globons\i+d\demo\demo.Infrastructure.Shared\bin\Debug\net5.0\demo.Infrastructure.Shared.pdb
+D:\desarrollo\sources\globons\i+d\demo\demo.Infrastructure.Shared\bin\Debug\net5.0\demo.Application.dll
+D:\desarrollo\sources\globons\i+d\demo\demo.Infrastructure.Shared\bin\Debug\net5.0\demo.Domain.dll
+D:\desarrollo\sources\globons\i+d\demo\demo.Infrastructure.Shared\bin\Debug\net5.0\demo.Application.pdb
+D:\desarrollo\sources\globons\i+d\demo\demo.Infrastructure.Shared\bin\Debug\net5.0\demo.Domain.pdb
+D:\desarrollo\sources\globons\i+d\demo\demo.Infrastructure.Shared\obj\Debug\net5.0\demo.Infrastructure.Shared.csprojAssemblyReference.cache
+D:\desarrollo\sources\globons\i+d\demo\demo.Infrastructure.Shared\obj\Debug\net5.0\demo.Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\desarrollo\sources\globons\i+d\demo\demo.Infrastructure.Shared\obj\Debug\net5.0\demo.Infrastructure.Shared.AssemblyInfoInputs.cache
+D:\desarrollo\sources\globons\i+d\demo\demo.Infrastructure.Shared\obj\Debug\net5.0\demo.Infrastructure.Shared.AssemblyInfo.cs
+D:\desarrollo\sources\globons\i+d\demo\demo.Infrastructure.Shared\obj\Debug\net5.0\demo.Infrastructure.Shared.csproj.CoreCompileInputs.cache
+D:\desarrollo\sources\globons\i+d\demo\demo.Infrastructure.Shared\obj\Debug\net5.0\demo.Infrastructure.Shared.csproj.CopyComplete
+D:\desarrollo\sources\globons\i+d\demo\demo.Infrastructure.Shared\obj\Debug\net5.0\demo.Infrastructure.Shared.dll
+D:\desarrollo\sources\globons\i+d\demo\demo.Infrastructure.Shared\obj\Debug\net5.0\ref\demo.Infrastructure.Shared.dll
+D:\desarrollo\sources\globons\i+d\demo\demo.Infrastructure.Shared\obj\Debug\net5.0\demo.Infrastructure.Shared.pdb

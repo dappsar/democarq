@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mento\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mento\\.nuget\\packages"
+    ]
+  }
+}

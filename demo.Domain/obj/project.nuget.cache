@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+/yCscMBN2/HhvuySlLnWyEVBK9cAteRdox15CafJzYGIQKjnAt55609Yh5sBQj2RJszBb32rr3ccy8nUPbNjA==",
+  "success": true,
+  "projectFilePath": "D:\\desarrollo\\sources\\globons\\i+d\\democarq\\demo.Domain\\demo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mento\\.nuget\\packages\\aspnetcorehero.abstractions\\1.0.0\\aspnetcorehero.abstractions.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
