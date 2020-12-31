@@ -1,6 +1,7 @@
 V1
-	PARAMS
+	CONFIG
 	* bdd params
+	* middlewaress
 
 	BDD
 	* lectura de bdd de registry 
@@ -14,29 +15,33 @@ V1
 	* custom code
 	* config
 
-V2
-
-	FLUENT VALIDATIONS
-	* fluent validation
-
-	ExCEPTIONS
-	* Agregar código de error
-	* No tiene sentido Failed y Succeeded, dejar uno de los dos (comentar por las dudas)
-	
 	JWT
 	* old version (manater audit de login)
 	* apporigen
 	* trace
-	* refresh token? (ver de video de flaco en inglés o de lo que armaste para swrb)
+	* refresh token? (ver de video de flaco en inglï¿½s o de lo que armaste para swrb)
+
+	CONTEXTO
+	* Agregar lo de auditoria de javit V2
 
 V3
 	ORDER
 
 	FILTERS
 
+V3
+
+	FLUENT VALIDATIONS
+	* fluent validation - ya existe, revisar.
+
+	ExCEPTIONS
+	* Agregar codigo de error
+	* No tiene sentido Failed y Succeeded, dejar uno de los dos (comentar por las dudas)
+	
+
 V4
 	FUNC
-	* country (documentar con imagenes y números en circulos en que lugares agregar nuevas clases)
+	* country (documentar con imagenes y nï¿½meros en circulos en que lugares agregar nuevas clases)
 	* locality
 	* province
 
@@ -55,5 +60,5 @@ V5
 
 ----
 
-Email – superadmin@gmail.com / Password – 123Pa$$word!
-Email – basic@gmail.com / Password – 123Pa$$word!
+Email ï¿½ superadmin@gmail.com / Password ï¿½ 123Pa$$word!
+Email ï¿½ basic@gmail.com / Password ï¿½ 123Pa$$word!
